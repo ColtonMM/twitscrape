@@ -1,2 +1,2 @@
 # twitscrape
-Playing around with twint
+This is just a small project playing around with twint since it seemed interesting despite being retired
