@@ -66,8 +66,7 @@ if __name__ == "__main__":
     print("Welcome to TwitScrape\n")
     #loop to get started with the program 
     while(True):
-        usrimp = input("What would you like to scrape today? \n 1)A specific user \n 2)A hashtag \n")
-        if usrimp=="1":
-            userscrape(s,recency)
+        usrimp = input("What would you like to scrape today? [hit enter]")
+        userscrape(s,recency)
         break
 
